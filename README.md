@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stef8n
-- 👀 I’m interested in python c# azure
-- 🌱 I’m currently learning java c#
+- 👀 I’m interested in python java azure
+- 🌱 I’m currently learning java python
 - 💞️ I’m looking to collaborate on random projects
 - 📫 How to reach me stefanduplessis137@gmail.com
 
